@@ -107,8 +107,8 @@ E --> F[Prediction Output]
 
 ## 👨‍💻 Developed By
 
-**Kaushal Kumar**  
-[GitHub](https://github.com/kumar-kaushal-dev) 
+**Harsh**  
+[GitHub](https://github.com/harshu1452) 
 *Open-source enthusiast | AI & Full Stack Developer*
 
 ---
